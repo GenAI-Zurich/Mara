@@ -1,4 +1,4 @@
-# MARA — Memory-Augmented Retail Agent
+# MARA :Memory-Augmented Retail Agent
 ### Constraint-Preserving Agent Architecture for Long-Term Retail Reasoning
 
 [![Qdrant](https://img.shields.io/badge/Vector%20DB-Qdrant%20Cloud-red)](https://qdrant.tech/)
